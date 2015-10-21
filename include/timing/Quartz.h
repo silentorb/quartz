@@ -20,7 +20,7 @@ namespace timing {
 
     ~Quartz(void);
 
-    void start(void);
+//    void start(void);
 
     float update_delta(void);
 

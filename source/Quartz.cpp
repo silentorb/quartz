@@ -1,4 +1,4 @@
-#include "Quartz.h"
+#include "timing/Quartz.h"
 #include <windows.h>
 
 namespace timing {
